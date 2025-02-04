@@ -76,4 +76,3 @@ function renderTopics() {
 // Initial render
 renderTopics();
 updateProgress();
-

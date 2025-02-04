@@ -1,6 +1,3 @@
-roadmap.js
-
-
 const roadmap = [
     {
         day: 1,
